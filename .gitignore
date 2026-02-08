@@ -1,0 +1,6 @@
+RccoWidget.spec
+dist
+build
+.vscode
+.venv
+utils/__pycache__
