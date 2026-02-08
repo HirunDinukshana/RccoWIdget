@@ -2,7 +2,7 @@ import os
 import sys
 import winreg
 
-def add_to_startup_once(app_name="MyPythonApp"):
+def add_to_startup_once(app_name="RccoWIdget"):
     try:
         key = winreg.OpenKey(
             winreg.HKEY_CURRENT_USER,
