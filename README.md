@@ -61,10 +61,15 @@ Required Folder Structure
 After building, the folder must be structured as follows:
 
 RccoWidget\
+
  ├─ app_icon.png
+ 
  ├─ RccoWidget.exe
+ 
  └─ wallpapers/
+ 
     ├─ image1.jpg
+    
     └─ image2.png
 Supported image formats: .jpg, .png
 
